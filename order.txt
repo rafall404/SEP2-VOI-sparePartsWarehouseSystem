@@ -1,0 +1,15 @@
+      SCOOTER MODEL : big scooter
+ spare part : battery ammount needed : 45
+ spare part : kikcstand ammount needed : 78
+      SCOOTER MODEL : big scooter
+ spare part : battery ammount needed : 45
+ spare part : kikcstand ammount needed : 78
+      SCOOTER MODEL : midscooter
+      SCOOTER MODEL : midscooter
+COMMENTS : 
+
+      SCOOTER MODEL : big scooter
+ spare part : battery ammount needed : 45
+ spare part : kikcstand ammount needed : 78
+      SCOOTER MODEL : dick
+      SCOOTER MODEL : big scooter
